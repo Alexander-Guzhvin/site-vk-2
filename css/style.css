@@ -561,9 +561,7 @@ position: relative;
 .input-file input[type=file]:disabled + .input-file-btn {
 	background-color: #eee;
 }
-form{
-    margin-top: 200px;
-}
+
 .input-block{
     margin-top: 40px;
     display: flex;
